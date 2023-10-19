@@ -1,0 +1,76 @@
+*{
+    margin:o;
+    padding:0;
+    font-family: sans-serif;
+  }
+  .hero{
+    position:relative;
+    width:100%;
+    height:100vh;
+    background:white;
+  
+  }
+  main {
+    height:40vh;
+    width:84.5%;
+    background-image:url(pexels-merlin-lightpainting-11280357.jpg) ;
+    background-position: center;
+    background-size: cover;
+    position: middle;
+    overflow: hidden;
+    padding: 250px 100px;
+    font-weight:bold;
+    display:inline-block;
+    font-size: larger; 
+    line-height: 22px;
+    text-align: center;
+  }
+  
+  .img img{
+    height:60%;
+    position:absolute;
+    left:30%;
+    bottom:0;
+    transform:translate(-50%);
+    transition:bottom 1s, left 1s;
+  }
+.img .girl{
+    left:83%
+  }
+  footer {
+    background-color : #333;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+  } 
+  header {
+    background-color : #333;
+    color: #fff;
+    padding: 30px;
+    text-align: center;
+    
+  }
+  
+  h1 {
+    margin: 0;
+  }
+  section{
+    height: 110vh;
+    width: 100%;
+    background-image:url(pexels-merlin-lightpainting-11280357.jpg) ;
+    background-position: center;
+    background-size: cover;
+    position: middle;
+    overflow: hidden;
+    font-weight:bold;
+    display:inline-block;
+    font-size: larger; 
+    line-height: 22px;
+    text-align:center;
+    padding-top: 50px;
+  }  
+  img
+  {
+    size-adjust: 10px;
+    text-align: right;
+  }
